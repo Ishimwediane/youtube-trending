@@ -15,6 +15,3 @@ A small dashboard project to visualize daily YouTube trending videos. Built with
    ```
 4. Open the link in your browser (usually `http://127.0.0.1:8050/`).
 
-## Deploying to Render
-I included a `render.yaml` so you can just push this repo to GitHub and connect it to a free Render web service.
-If the dataset is too big for the free tier, run `python create_sample.py` to make a smaller 5% version of the dataset first, and just upload that one.
